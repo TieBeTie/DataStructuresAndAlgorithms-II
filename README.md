@@ -1,8 +1,6 @@
 # DataStructuresAndAlgorithms-II
 
-# Data Structures and Algorithms I 2023
-
-Welcome to the Data Structures & Algorithms I course! 
+Welcome to the Data Structures & Algorithms II course! 
 
 - [Course program](/program.md)
 
