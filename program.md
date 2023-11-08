@@ -11,4 +11,5 @@
 2. Euler Trail, Bridges, Cutpoints.
 3. 0-k BFS, Dijkstra's algorithm, Bellman-Ford algorithm.
 4. Floyd-Warshall algorithm, A*.
-5. Prim's, Kruskal's, Borůvka's Algorithms for Minimum Spanning Tree.
+5. Prim's, Kruskal's for Minimum Spanning Tree.
+6. Matching (independent edge set)
