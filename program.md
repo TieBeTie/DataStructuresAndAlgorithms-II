@@ -3,7 +3,7 @@
 #### Unit 1: Dynamic Programming
 1. Popular simple tasks.
 2. Knapsack Problem, Dynamic Programming on matrices.
-3. Introduction to Graphs, DFS.
+3. Introduction to Graphs, DFS, BFS.
 4. Dynamic programming with Bitmasks, with Profile.
 
 #### Unit 2: Graphs
