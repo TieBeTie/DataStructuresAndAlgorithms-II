@@ -8,7 +8,7 @@ This repository hosts materials, assignments, and resources for the Algorithms a
 
 - [Practices materials](/materials/materials.md)
 
-- [Rating](https://docs.google.com/spreadsheets/d/1YBSQKsTT25yyDlLb2DivpE3RN6FZ3xnJmqsTiJQVEQs/edit?usp=sharing)
+- [Rating]([https://docs.google.com/spreadsheets/d/1YBSQKsTT25yyDlLb2DivpE3RN6FZ3xnJmqsTiJQVEQs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1roFCm5N-mRfv-VSb967_xaDVll2hTZk5jILz6QRdMGg/edit?usp=sharing))
 
 ###### Code review
 
